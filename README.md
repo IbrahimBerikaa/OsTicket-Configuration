@@ -34,37 +34,44 @@ After configuring a new department we will set up a new team. Teams allow you to
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/cYzWBD2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![image](https://github.com/IbrahimBerikaa/OsTicket-Configuration/assets/167066492/204a32ab-e91d-4f71-a13e-83230da86174)
 </p>
 <p>
 Now that we have set up a new team we will create a new setting that will allow anyone to create tickets. Admin Panel->Settings->User Settings.
 
 </p>
 <br />
-<img src="https://i.imgur.com/H1q2Fdh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/IbrahimBerikaa/OsTicket-Configuration/assets/167066492/6f48204e-be00-4e53-9b0a-ecbe97d9a12b)
+
 </p>
 <p>
 It is now time to create Agents. Agents are the employees of the helpdesk that actually work on solving tickets. Agents are assigned primary departments and given a primary role for tickets sent to their department. Agents can be given access to other departments other than their own, they can also have different roles depending on which department they are in. Permissions, Access, & Teams are be assigned in the Agents tab. 
 </p>
 <br />
-<img src="https://i.imgur.com/8WTOSre.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/IbrahimBerikaa/OsTicket-Configuration/assets/167066492/0247f774-edf7-4877-860d-f6785e029cee)
 </p>
 <p>
 After creating some agents we will create users. Users are customers that create tickets when they are having issues. A user is identified with their E-mail address. To create a user follow this path Agent Panel->Users->User Directory->Add new. 
 </p>
 <br />
-<img src="https://i.imgur.com/xOprA9f.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/IbrahimBerikaa/OsTicket-Configuration/assets/167066492/ae887edf-23b6-4da4-a71c-a64fbdd6b56f)
 </p>
 <p>
 SLAs Plans provide a length of time in which the help desk is expected to take in order to solve a specific ticket. SLA Plans are created by going to Admin Panel->Manage->SLA Plans. Each SLA has a schedule and within that schedule there is a grace period. In this example SEV-A has a 24/7 and a one hour grace period. 
 </p>
 <br />
-<img src="https://i.imgur.com/LpjCaLd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/IbrahimBerikaa/OsTicket-Configuration/assets/167066492/6c819bf8-6b4c-4f62-b95d-1ea7f770e3f4)
 </p>
 <p>
 Help topics help users categorize their tickets. In the example below we have made a help topic for "Business Critical Outage" this can be if customers cannot access mobile banking. 
 </p>
 <br />
-<img src="https://i.imgur.com/kB7rts2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/IbrahimBerikaa/OsTicket-Configuration/assets/167066492/c1a97f95-bf03-4f90-9e02-58780f137376)
 </p>
 <p>
